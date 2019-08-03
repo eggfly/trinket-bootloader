@@ -72,7 +72,7 @@ A magic byte at the bottom of the stack is checked to see where to jump when the
 //#define ENABLE_FUSE_READING
 #define ENABLE_CHIP_ERASE
 #define ENABLE_WRITE_WHEN_TOLD
-#define ENABLE_LED_BLINK
+//#define ENABLE_LED_BLINK
 #define ENABLE_RESTORE_OSCCAL
 
 // timeout settings
